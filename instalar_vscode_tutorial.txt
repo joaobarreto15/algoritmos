@@ -3,3 +3,6 @@ Nesse tutorial iremos realizar a instalaçao do vscode em sua maquina e tambem v
 
 O que é o vscode
 Um editor de código-fonte autônomo que é executado no Windows, macOS e Linux. A melhor escolha para desenvolvedores JavaScript e Web, com toneladas de extensões dar suporte a praticamente qualquer linguagem de programação
+
+Como fazer o download
+A instalação no Windows é relativamente simples, basta acessar o site oficial do Visual Studio Code e fazer o Download da sua última versão, clicando no botão "Download for Windows".
