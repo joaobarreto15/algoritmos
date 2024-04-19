@@ -1,3 +1,5 @@
 Iniciando tutorial do vscode
 Nesse tutorial iremos realizar a instalaçao do vscode em sua maquina e tambem vou explicar o que é o vscode
 
+O que é o vscode
+Um editor de código-fonte autônomo que é executado no Windows, macOS e Linux. A melhor escolha para desenvolvedores JavaScript e Web, com toneladas de extensões dar suporte a praticamente qualquer linguagem de programação
