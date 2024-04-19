@@ -2,7 +2,11 @@ Iniciando tutorial de Python
 Nesse tutorial vamos realizar a instalação do programa python na maquina virtual e também vou explicar o que é o python.
 
 O que é o python 
+<<<<<<< HEAD
 O Python é uma linguagem de programação amplamente usada em aplicações da Web, desenvolvimento de software, ciência de dados e machine learning (ML). Os desenvolvedores usam o Python porque é eficiente e fácil de aprender e pode ser executada em muitas plataformas diferentes. O software Python pode ser baixado gratuitamente, integra-se bem a todos os tipos de sistema e agiliza o desenvolvimento.
 
 Como fazer o download
 Acesse o site oficial do Python em python.org e localize a seção de downloads. O site identificará automaticamente que você está usando Windows e oferecerá a versão mais recente para download.
+=======
+O Python é uma linguagem de programação amplamente usada em aplicações da Web, desenvolvimento de software, ciência de dados e machine learning (ML). Os desenvolvedores usam o Python porque é eficiente e fácil de aprender e pode ser executada em muitas plataformas diferentes. O software Python pode ser baixado gratuitamente, integra-se bem a todos os tipos de sistema e agiliza o desenvolvimento
+>>>>>>> e9e946a0985570e7dcee48aad12286960fc36822
