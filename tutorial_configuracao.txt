@@ -1,0 +1,18 @@
+Como ver configurações remotas do git
+git remote
+Listar as conexões remotas que você tem com outros repositórios.
+
+git remote -v
+Igual ao comando acima, mas inclui a URL de cada conexão.
+
+Como criar e modificar configurações remotas do git
+O comando git remote é também uma conveniência ou método "auxiliar" para modificar o arquivo ./.git/config de um repositório. Os comandos apresentados abaixo permitem gerenciar conexões com outros repositórios. Os comandos a seguir vão modificar o arquivo /.git/config do repositório. O resultado dos comandos a seguir também pode ser alcançado editando direto o arquivo ./.git/config com um editor de texto.
+
+git remote add <name> <url>
+Crie uma nova conexão com um repositório remoto. Depois de adicionar um remoto, você vai poder usar ＜name＞ como um atalho conveniente para ＜url＞ em outros comandos do Git.
+
+git remote rm <name>
+Remova a conexão com o repositório remoto chamado ＜name＞.
+
+git remote rename <old-name> <new-name>
+Renomeie uma conexão remota de ＜old-name＞ para ＜new-name＞.
