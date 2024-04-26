@@ -1,1 +1,1 @@
-A pasta algoritimos contem todas os meus projetos que realizei no portugol e estao organizadas de acordo com seus determinados niveis de dificuldade e tambem contem dois tutoriais 
+A pasta algoritimos contem todas os meus projetos que realizei no portugol e estao organizadas de acordo com seus determinados niveis de dificuldade e tambem contem dois tutoriais.
